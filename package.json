@@ -11,7 +11,7 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.2.0",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.3"
   },
   "dependencies": {
     "eslint": "^5.4.0"
